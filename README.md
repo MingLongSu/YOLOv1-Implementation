@@ -1,9 +1,9 @@
 # 🤖 YOLOv1 Paper Implementation 
 This is repository contains the implementation and training scripts for the YOLOv1 object detection model using the PyTorch framework.
 
-  
-# 🛠️ Demo
-![demo_image_1](https://github.com/MingLongSu/YOLOv1-Implementation/assets/88013020/52a0a80e-8990-44c2-b5ce-aef3053c1440)
+# 🛠️ Demos
+![image](https://github.com/MingLongSu/YOLOv1-Implementation/assets/88013020/e6a47cf3-ff47-4d6f-88b5-7df36c166fd8)
+![image](https://github.com/MingLongSu/YOLOv1-Implementation/assets/88013020/a2352d2d-d305-49c3-87da-7cfb89f31be2)
 
 # 🏎️ Training
 To run the training script, (use paths or) go to directory with ```run_training.py```. Then run script with the following:

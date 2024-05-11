@@ -3,7 +3,7 @@ This is repository contains the implementation and training scripts for the YOLO
 
   
 # 🛠️ Demo
---images go here--
+![demo_image_1](https://github.com/MingLongSu/YOLOv1-Implementation/assets/88013020/52a0a80e-8990-44c2-b5ce-aef3053c1440)
 
 # 🏎️ Training
 To run the training script, (use paths or) go to directory with ```run_training.py```. Then run script with the following:

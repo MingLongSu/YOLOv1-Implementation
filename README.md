@@ -1,5 +1,18 @@
 # 🤖 YOLOv1 Paper Implementation 
-This is repository contains the implementation and training scripts for the YOLOv1 object detection model according to the details in the paper using the PyTorch framework.
+This is repository contains the implementation and training scripts on GPU for the YOLOv1 object detection model according to the details in the paper using the PyTorch framework.
+
+# 🧰 Dependencies
+```
+- python=3.10.13
+- matplotlib=3.8.0
+- numpy=1.26.3
+- pandas=2.1.4
+- pytorch=2.2.0
+- pytorch-cuda=12.1
+- tensorboard=2.10.0
+- torchaudio==2.2.0
+- torchvision==0.17.0
+```
 
 # 🛠️ Demos
 ![image](https://github.com/MingLongSu/YOLOv1-Implementation/assets/88013020/e6a47cf3-ff47-4d6f-88b5-7df36c166fd8)
